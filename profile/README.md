@@ -3,7 +3,7 @@
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=shadow-develops&label=Profile%20views&color=red&style=flat-square" alt="Shadow Development's Visits" />
-<a href="https://shadowdevs.com" target="_blank"><img src="https://img.shields.io/website?down_color=red&down_message=Offline&label=Web%20Site&style=flat-square&up_color=brightgreen&up_message=Online&url=https%3A%2F%2Fshadowdevsc.om" alt="SDWebsiteStatus" /></a>
+<a href="https://shadowdevs.com" target="_blank"><img src="https://img.shields.io/website?down_color=red&down_message=Offline&label=Web%20Site&style=flat-square&up_color=brightgreen&up_message=Online&url=https%3A%2F%2Fshadowdevs.com" alt="SDWebsiteStatus" /></a>
 <a href="https://shadowdevs.com/discord" target="_blank"><img src="https://img.shields.io/discord/352577622103949312?color=blue&label=%20Discord&style=flat-square" alt="SDDiscord Staus" /></a>
 </p>
 
