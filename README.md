@@ -16,8 +16,6 @@
 [<img align="left" alt="Shadow Development | Twitter" height="30" width="40" src="https://raw.githubusercontent.com/AgentBUB/AgentBUB/main/src/images/twitter.svg" />][twitter]
 [<img align="left" alt="Shadow Development | Email" height="30" width="40" src="https://raw.githubusercontent.com/AgentBUB/AgentBUB/main/src/images/email.svg" />][email]
 
----
-
 [website]: https://shadowdevs.com
 [discord]: https://shadowdevs.com/discord
 [twitter]: https://twitter.com/ShadowDevelops
