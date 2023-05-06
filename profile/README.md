@@ -1,5 +1,5 @@
 <h1 align="center">
-<a href="https://shadowdevs.com" target="_blank"><img src="https://shadowdevs.com/img/Banner.png" height="135"/></a>
+<a href="https://shadowdevs.com" target="_blank"><img src="https://shadowdevs.com/img/ShadowDevBanner.png" style="border-radius: 5px;" height="135"/></a>
 </h1>
 <h3 align="center">Shadow Development is a high quality, reliable, and affordable company; we make plenty of products for your needs at very reasonable and affordable pricing. We strive to create the highest quality products no matter what we are working on, and it is our passion to ensure out customers get the best experience and support at all times.</h3>
 
